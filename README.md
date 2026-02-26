@@ -12,4 +12,4 @@ Overall, this dashboard helped me convert raw financial data into meaningful ins
 
 PROJECT PBIX FILE : https://drive.google.com/file/d/1MK3GgYqgtpdCmdwH6bXyHF1kKhEceMbP/view?usp=sharing
 
-PROJET PDF FILE:  https://drive.google.com/file/d/1Xcw3BEmTBHNJNrx-Z1aPj75LFlOd8Kjl/view?usp=sharing
+PROJET PDF FILE:  https://drive.google.com/file/d/1Xcw3BEmTBHNJNrx-Z1aPj75LFlOd8Kjl/view?usp=sharing 
